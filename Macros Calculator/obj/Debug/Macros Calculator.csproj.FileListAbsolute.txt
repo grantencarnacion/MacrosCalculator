@@ -1,0 +1,7 @@
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\bin\Debug\Macros Calculator.exe.config
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\bin\Debug\Macros Calculator.exe
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\bin\Debug\Macros Calculator.pdb
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\obj\Debug\Macros Calculator.csprojAssemblyReference.cache
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\obj\Debug\Macros Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\obj\Debug\Macros Calculator.exe
+C:\Users\Grant\source\repos\Macros Calculator\Macros Calculator\obj\Debug\Macros Calculator.pdb
